@@ -1,0 +1,7 @@
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\PubTmp\Out\WebAppSystem.exe
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\PubTmp\Out\WebAppSystem.dll
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\PubTmp\Out\WebAppSystem.deps.json
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\PubTmp\Out\WebAppSystem.runtimeconfig.json
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\PubTmp\Out\WebAppSystem.pdb

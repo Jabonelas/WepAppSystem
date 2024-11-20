@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\israe\\source\\repos\\WebAppSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6EC6A97-BAF8-47DA-9255-2EBA5BE5606F}|WebAppSystem\\WebAppSystem.csproj|c:\\users\\israe\\source\\repos\\webappsystem\\webappsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6EC6A97-BAF8-47DA-9255-2EBA5BE5606F}|WebAppSystem\\WebAppSystem.csproj|solutionrelative:webappsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6EC6A97-BAF8-47DA-9255-2EBA5BE5606F}|WebAppSystem\\WebAppSystem.csproj|c:\\users\\israe\\source\\repos\\webappsystem\\webappsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6EC6A97-BAF8-47DA-9255-2EBA5BE5606F}|WebAppSystem\\WebAppSystem.csproj|solutionrelative:webappsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EC6A97-BAF8-47DA-9255-2EBA5BE5606F}|WebAppSystem\\WebAppSystem.csproj|c:\\users\\israe\\source\\repos\\webappsystem\\webappsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6EC6A97-BAF8-47DA-9255-2EBA5BE5606F}|WebAppSystem\\WebAppSystem.csproj|solutionrelative:webappsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\WebAppSystem\\WebAppSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebAppSystem\\Views\\Shared\\_Layout.cshtml",
@@ -34,18 +34,17 @@
               "RelativeToolTip": "WebAppSystem\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAALoAAAAAAAAAAAAAAMUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-05T21:59:38.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T21:59:38.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\WebAppSystem\\WebAppSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebAppSystem\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\israe\\source\\repos\\WebAppSystem\\WebAppSystem\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebAppSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAgBAAAAAAAAAAD4vyQBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-05T21:07:31.081Z",
               "EditorCaption": ""
@@ -56,10 +55,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6a22fc8f-6c1e-5388-aa3d-9dc8ddb2d262}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"

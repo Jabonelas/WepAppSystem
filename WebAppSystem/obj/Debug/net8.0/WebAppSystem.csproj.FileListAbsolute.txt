@@ -28,3 +28,4 @@ C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Debug\net8.0\refint\We
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Debug\net8.0\WebAppSystem.pdb
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Debug\net8.0\WebAppSystem.genruntimeconfig.cache
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Debug\net8.0\ref\WebAppSystem.dll
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Debug\net8.0\WebAppSystem.sourcelink.json
