@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: WepAppSystem
+    env: dotnet
+    buildCommand: dotnet publish -c Release -o ./out
+    startCommand: dotnet ./out/WepAppSystem.dll
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
