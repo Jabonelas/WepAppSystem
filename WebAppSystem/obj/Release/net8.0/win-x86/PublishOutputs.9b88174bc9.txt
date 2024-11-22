@@ -323,7 +323,7 @@ C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\hostfxr.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\hostpolicy.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\mscordaccore.dll
-C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\mscordaccore_x86_x86_8.0.1024.46610.dll
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\mscordaccore_x86_x86_8.0.1124.51707.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\mscordbi.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\mscorrc.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\PubTmp\Out\msquic.dll

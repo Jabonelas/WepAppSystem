@@ -324,7 +324,6 @@ C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\hostfxr.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\hostpolicy.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\mscordaccore.dll
-C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\mscordaccore_x86_x86_8.0.1024.46610.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\mscordbi.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\mscorrc.dll
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\msquic.dll
@@ -353,3 +352,4 @@ C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\WebAppSystem.pdb
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\WebAppSystem.genruntimeconfig.cache
 C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\obj\Release\net8.0\win-x86\ref\WebAppSystem.dll
+C:\Users\israe\source\repos\WebAppSystem\WebAppSystem\bin\Release\net8.0\win-x86\mscordaccore_x86_x86_8.0.1124.51707.dll
